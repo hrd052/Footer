@@ -37,6 +37,7 @@
 }
 .hk-footer .logo {
   margin-bottom: 44px;
+  display: inline-block;
 }
 .hk-footer .title {
   max-width: 144px;
