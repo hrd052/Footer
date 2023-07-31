@@ -101,4 +101,18 @@
       width: 100px;
     }
   }
+
+  .copyright {
+    color: #AEB3B8;
+    font-size: 15px;
+
+    a {
+      color: #e1e1e1;
+      font-weight: bold;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
 }

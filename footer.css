@@ -91,4 +91,15 @@
   .hk-footer .col5 .title {
     width: 100px;
   }
+}
+.hk-footer .copyright {
+  color: #AEB3B8;
+  font-size: 15px;
+}
+.hk-footer .copyright a {
+  color: #e1e1e1;
+  font-weight: bold;
+}
+.hk-footer .copyright a:hover {
+  color: #fff;
 }/*# sourceMappingURL=footer.css.map */
